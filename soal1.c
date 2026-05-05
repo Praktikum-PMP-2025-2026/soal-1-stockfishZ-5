@@ -31,8 +31,6 @@ int main(){
         arr[i].filled = 1;
     }
 
-    //check(&arr);
-
     // () tipe 1, [] tipe 2, {} tipe 3
     int i = 0;
     while (arr[i].filled == 1){
