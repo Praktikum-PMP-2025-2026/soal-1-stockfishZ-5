@@ -16,9 +16,6 @@ struct Node {
     int filled;
 };
 
-void check(struct Node* arr[]){
-    
-}
 
 int main(){
     char input[50];
