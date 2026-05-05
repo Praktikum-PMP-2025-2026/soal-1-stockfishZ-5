@@ -84,6 +84,7 @@ int main(){
         if (arr[k].c == '(' || arr[k].c == ')' || arr[k].c == '[' || arr[k].c == ']' || arr[k].c == '{' || arr[k].c == '}'){
             printf("INVALID");
             valid = 0;
+            break;
         }
         k++;
     }
