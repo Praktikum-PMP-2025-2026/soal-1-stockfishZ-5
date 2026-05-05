@@ -1,9 +1,9 @@
-/** EL2008 Praktikum Pemecahan Masalah dengan Pemrograman 2024/2025
+/** EL2008 Praktikum Pemecahan Masalah dengan Pemrograman 2025/2026
  *   Modul               : 4
  *   Hari dan Tanggal    : 5 Mei 2026
  *   Nama (NIM)          : 13224074
  *   Nama File           : soal1.c
- *   Deskripsi           : Mensortir s
+ *   Deskripsi           : Valid or invalid string of ()[]{}
  * 
  */
 
